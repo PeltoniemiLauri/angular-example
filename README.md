@@ -1,5 +1,9 @@
 # AngularExample
 
+Project used for AL00CM25 Ohjelmistokehitysprosessin automatisointi.
+
+Below are the instructions on running the program.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
 
 ## Development server
